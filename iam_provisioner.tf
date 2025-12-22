@@ -19,6 +19,6 @@ resource "aws_iam_user" "lb"{
     }
 }
 
- #The content of the iam_creation_audit.csv would look like this after I run terraform apply follow by terraform destroy:
-# svc-terraform-automation,2025-12-22T10:30:00Z,CREATED
-# svc-terraform-automation,2025-12-22T10:35:00Z,DELETED
+// The content of the iam_creation_audit.csv would look like this after I run terraform apply follow by terraform destroy:
+// svc-terraform-automation,2025-12-22T10:30:00Z,CREATED
+// svc-terraform-automation,2025-12-22T10:35:00Z,DELETED
