@@ -2,7 +2,7 @@
 
 # Day 1: PROVISIONER - Local exec, remote exec, creation time, destroy time, inline and connection command
 
-**File**: [`provisioners.tf`](https://github.com/Oluwatobi-Mustapha/Terraform/blob/main/iam_provisioner.tf)
+**File**: [`provisioners.tf`](https://github.com/Oluwatobi-Mustapha/Terraform/blob/main/provisioner.tf)
 
 # Day 2: PROVISIONER CONTINUATION - Applied to IAM creation audits
 
